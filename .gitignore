@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.deb
+patch_dir/
+*.log
+.env
+.cache
+*.tar.gz
+chat_history.json
+.env
+.cache
+.cache-*
