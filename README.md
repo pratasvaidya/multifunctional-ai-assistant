@@ -1,5 +1,5 @@
 # Multifunctional AI Assistant
-
+Demo video: https://drive.google.com/file/d/1AfqjYs1_6OqNzkyZbt_CiWr0XF4OT3vY/view?usp=sharing
 A voice controlled, hardware based AI assistant built on a Raspberry Pi. It uses push to talk to process language commands, control Spotify playback, and manage Meross smart home devices with the Groq API.
 
 ## Hardware
